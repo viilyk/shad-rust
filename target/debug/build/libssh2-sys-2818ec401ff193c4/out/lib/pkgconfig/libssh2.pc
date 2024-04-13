@@ -1,0 +1,17 @@
+###########################################################################
+# libssh2 installation details
+###########################################################################
+
+prefix=/Users/igorilyk/shad-rust/target/debug/build/libssh2-sys-2818ec401ff193c4/out
+exec_prefix=
+libdir=/Users/igorilyk/shad-rust/target/debug/build/libssh2-sys-2818ec401ff193c4/out/lib
+includedir=/Users/igorilyk/shad-rust/target/debug/build/libssh2-sys-2818ec401ff193c4/out/include
+
+Name: libssh2
+URL: https://www.libssh2.org/
+Description: Library for SSH-based communication
+Version: 1.9.0_DEV
+Requires.private: 
+Libs: -L${libdir} -lssh2 
+Libs.private: 
+Cflags: -I${includedir}

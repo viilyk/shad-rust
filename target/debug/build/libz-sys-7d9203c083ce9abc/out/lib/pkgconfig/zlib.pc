@@ -1,0 +1,13 @@
+prefix=/Users/igorilyk/shad-rust/target/debug/build/libz-sys-7d9203c083ce9abc/out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,1 @@
+/Users/igorilyk/shad-rust/target/debug/paperio-bot: /Users/igorilyk/shad-rust/paperio/src/data.rs /Users/igorilyk/shad-rust/paperio/src/lib.rs /Users/igorilyk/shad-rust/paperio/src/main.rs /Users/igorilyk/shad-rust/paperio/src/strategy.rs

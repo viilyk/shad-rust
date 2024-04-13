@@ -1,0 +1,12 @@
+/Users/igorilyk/shad-rust/target/debug/deps/tempfile-48a865bc666d49e2.rmeta: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/dir.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/error.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/file/mod.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/file/imp/mod.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/spooled.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/util.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/file/imp/unix.rs
+
+/Users/igorilyk/shad-rust/target/debug/deps/tempfile-48a865bc666d49e2.d: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/dir.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/error.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/file/mod.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/file/imp/mod.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/spooled.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/util.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/file/imp/unix.rs
+
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/lib.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/dir.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/error.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/file/mod.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/file/imp/mod.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/spooled.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/util.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.0/src/file/imp/unix.rs:

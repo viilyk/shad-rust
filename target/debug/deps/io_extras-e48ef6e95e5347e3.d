@@ -1,0 +1,12 @@
+/Users/igorilyk/shad-rust/target/debug/deps/io_extras-e48ef6e95e5347e3.rmeta: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/borrowed.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/grip.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/os/mod.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/os/rustix.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/owned.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/raw.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/read_write.rs
+
+/Users/igorilyk/shad-rust/target/debug/deps/io_extras-e48ef6e95e5347e3.d: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/borrowed.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/grip.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/os/mod.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/os/rustix.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/owned.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/raw.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/read_write.rs
+
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/lib.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/borrowed.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/grip.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/os/mod.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/os/rustix.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/owned.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/raw.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/io-extras-0.18.0/src/read_write.rs:

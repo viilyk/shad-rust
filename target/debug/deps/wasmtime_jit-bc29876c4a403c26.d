@@ -1,0 +1,15 @@
+/Users/igorilyk/shad-rust/target/debug/deps/wasmtime_jit-bc29876c4a403c26.rmeta: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/code_memory.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/debug.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/demangling.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/instantiate.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/profiling.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/unwind.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/profiling/perfmap.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/unwind/systemv.rs
+
+/Users/igorilyk/shad-rust/target/debug/deps/wasmtime_jit-bc29876c4a403c26.d: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/code_memory.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/debug.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/demangling.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/instantiate.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/profiling.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/unwind.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/profiling/perfmap.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/unwind/systemv.rs
+
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/lib.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/code_memory.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/debug.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/demangling.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/instantiate.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/profiling.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/unwind.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/profiling/perfmap.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmtime-jit-12.0.2/src/unwind/systemv.rs:
+
+# env-dep:CARGO_PKG_VERSION=12.0.2

@@ -1,0 +1,12 @@
+/Users/igorilyk/shad-rust/target/release/deps/anstyle-d3a95f30390e3499.rmeta: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/macros.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/color.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/effect.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/reset.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/style.rs
+
+/Users/igorilyk/shad-rust/target/release/deps/libanstyle-d3a95f30390e3499.rlib: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/macros.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/color.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/effect.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/reset.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/style.rs
+
+/Users/igorilyk/shad-rust/target/release/deps/anstyle-d3a95f30390e3499.d: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/macros.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/color.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/effect.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/reset.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/style.rs
+
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/lib.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/macros.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/color.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/effect.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/reset.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/style.rs:

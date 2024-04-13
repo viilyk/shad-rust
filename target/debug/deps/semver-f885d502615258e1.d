@@ -1,0 +1,12 @@
+/Users/igorilyk/shad-rust/target/debug/deps/semver-f885d502615258e1.rmeta: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/backport.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/display.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/error.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/eval.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/identifier.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/impls.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/parse.rs
+
+/Users/igorilyk/shad-rust/target/debug/deps/semver-f885d502615258e1.d: /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/lib.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/backport.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/display.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/error.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/eval.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/identifier.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/impls.rs /Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/parse.rs
+
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/lib.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/backport.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/display.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/error.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/eval.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/identifier.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/impls.rs:
+/Users/igorilyk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.19/src/parse.rs:
